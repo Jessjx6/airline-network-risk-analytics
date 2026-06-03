@@ -13,7 +13,7 @@ simulate a hub outage.
 
 ## Data source
 
-All data comes from **OpenFlights** (<https://openflights.org/data.html>), an
+All data comes from **OpenFlights** (<https://openflights.org/data.php>), an
 open dataset. Two files are used, and both are already included in this
 repository. They are plain comma-separated text with **no header row**, and
 missing values are written as `\N`.
