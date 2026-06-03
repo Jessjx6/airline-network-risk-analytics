@@ -1,0 +1,21 @@
+Airport,Name,City,Country,Traffic,Traffic_Rank,Degree_Rank,Degree_Diff,Betweenness_Rank,Betweenness_Diff,Eigenvector_Rank,Eigenvector_Diff
+ATL,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,1826,1,5.0,4.0,19.0,18.0,,
+ORD,Chicago O'Hare International Airport,Chicago,United States,1108,2,6.0,4.0,7.0,5.0,28.0,26.0
+LHR,London Heathrow Airport,London,United Kingdom,1051,3,12.0,9.0,12.0,9.0,5.0,2.0
+PEK,Beijing Capital International Airport,Beijing,China,1050,4,7.0,3.0,6.0,2.0,,
+CDG,Charles de Gaulle International Airport,Paris,France,1041,5,2.0,3.0,1.0,4.0,3.0,2.0
+FRA,Frankfurt am Main Airport,Frankfurt,Germany,990,6,1.0,5.0,5.0,1.0,2.0,4.0
+LAX,Los Angeles International Airport,Los Angeles,United States,986,7,24.0,17.0,2.0,5.0,,
+DFW,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,936,8,10.0,2.0,24.0,16.0,,
+JFK,John F Kennedy International Airport,New York,United States,911,9,17.0,8.0,23.0,14.0,18.0,9.0
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,903,10,3.0,7.0,9.0,1.0,1.0,9.0
+SIN,Singapore Changi Airport,Singapore,Singapore,820,11,,,16.0,5.0,,
+BCN,Barcelona International Airport,Barcelona,Spain,783,12,16.0,4.0,,,8.0,4.0
+DEN,Denver International Airport,Denver,United States,733,13,14.0,1.0,25.0,12.0,,
+MUC,Munich Airport,Munich,Germany,728,14,8.0,6.0,,,4.0,10.0
+IST,Istanbul Airport,Istanbul,Turkey,715,15,4.0,11.0,10.0,5.0,7.0,8.0
+LGW,London Gatwick Airport,London,United Kingdom,708,16,15.0,1.0,,,14.0,2.0
+DXB,Dubai International Airport,Dubai,United Arab Emirates,706,17,11.0,6.0,3.0,14.0,20.0,3.0
+FCO,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,662,18,18.0,0.0,,,6.0,12.0
+MAD,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,661,19,19.0,0.0,30.0,11.0,10.0,9.0
+DME,Domodedovo International Airport,Moscow,Russia,647,20,9.0,11.0,18.0,2.0,,
